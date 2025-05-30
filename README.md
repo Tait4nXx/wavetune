@@ -56,7 +56,7 @@ Get started quickly by deploying to Heroku with just one click:
 
 ### Vercel  
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/4nuxd/wavetune/)  
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Tait4nXx/wavetune/)  
 
 ## 🤝 Contributions
 We welcome contributions! Feel free to **fork**, **open issues**, or **submit pull requests** to improve WaveTune.
